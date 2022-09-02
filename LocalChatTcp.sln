@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpClient", "TcpClient\TcpClient.csproj", "{D44238EA-D4F7-4E6E-A80F-2B96DD18BFF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpClient", "TcpClient\TcpClient.csproj", "{D44238EA-D4F7-4E6E-A80F-2B96DD18BFF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpServer", "TcpServer\TcpServer.csproj", "{B9EC8FB4-6A3A-4A62-9363-EEC5BDEE17B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpServer", "TcpServer\TcpServer.csproj", "{B9EC8FB4-6A3A-4A62-9363-EEC5BDEE17B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{CCF66ED1-E408-4D9C-B933-E40DAA815810}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
