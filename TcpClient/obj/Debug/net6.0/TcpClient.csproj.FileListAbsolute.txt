@@ -1,0 +1,15 @@
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.csproj.AssemblyReference.cache
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.AssemblyInfoInputs.cache
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.AssemblyInfo.cs
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\bin\Debug\net6.0\TcpClient.exe
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\bin\Debug\net6.0\TcpClient.deps.json
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\bin\Debug\net6.0\TcpClient.runtimeconfig.json
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\bin\Debug\net6.0\TcpClient.dll
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\bin\Debug\net6.0\TcpClient.pdb
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.dll
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\refint\TcpClient.dll
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.pdb
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\TcpClient.genruntimeconfig.cache
+C:\Users\Serraff\source\repos\LocalChatTcp\TcpClient\obj\Debug\net6.0\ref\TcpClient.dll
